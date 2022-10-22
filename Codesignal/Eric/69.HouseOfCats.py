@@ -6,4 +6,4 @@ def solution(legs):
     return result[::-1]
 
 
-print(solution(6)) # [4,2]
+print(solution(6)) # [1,3]
